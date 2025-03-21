@@ -26,7 +26,7 @@ The QLoRA adapter was trained in Google Colab with the following steps:
 - Supports **chat history** for more interactive conversations.
 
 ## 🎯 Live Demo
-👉 [Try it on Hugging Face Spaces!](https://huggingface.co/spaces/Shriti09/Phi-QLora-Chat)
+👉 [Try it on Hugging Face Spaces!](https://huggingface.co/spaces/Shriti09/MicrosoftPhiQloraExample)
 
 ## ⚡ Inference Example
 Ask the chatbot anything about AI, technology, or more!
