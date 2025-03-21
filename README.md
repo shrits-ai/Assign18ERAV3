@@ -1,4 +1,4 @@
-# 🧠 Phi-2 QLoRA Chatbot (Hugging Face Space)
+# 🧠 Phi-2 QLoRA 
 
 Welcome to the Phi-2 QLoRA Adapter project! This repository contains resources for fine-tuning Microsoft Phi-2 with QLoRA (Quantized Low-Rank Adapter) and deploying a chatbot interface on Hugging Face Spaces.
 
