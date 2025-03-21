@@ -5,7 +5,6 @@ Welcome to the Phi-2 QLoRA Adapter project! This repository contains resources f
 The goal of this project is to create an efficient conversational model using low-rank adapters, which drastically reduce the need for large computational resources, and to provide an easy-to-use interface where users can interact with the fine-tuned model.
 
 ## 🚀 Model Details
-## Project Overview
 - **Base Model**: [microsoft/phi-2](https://huggingface.co/microsoft/phi-2)
 - **Adapter**: Trained on [OpenAssistant/oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1)
 - **Adapter Type**: QLoRA (Quantized Low-Rank Adapter)
