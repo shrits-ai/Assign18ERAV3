@@ -11,7 +11,7 @@ The goal of this project is to create an efficient conversational model using lo
 - **Dataset**: OpenAssistant/oasst1
 - **Quantization**: 4-bit using bitsandbytes
 - **Training Framework**: Transformers + PEFT
-- **Chat Interface**: Gradio app on Hugging Face Spaces
+- **Generate Interface**: Gradio app on Hugging Face Spaces
 - **Fine-Tuned Adapter Checkpoints**: Available on Hugging Face Hub
 
 ## 🛠️ Training Process
