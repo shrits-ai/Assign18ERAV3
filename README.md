@@ -4,8 +4,8 @@ Welcome to the Phi-2 QLoRA Adapter project! This repository contains resources f
 
 The goal of this project is to create an efficient conversational model using low-rank adapters, which drastically reduce the need for large computational resources, and to provide an easy-to-use interface where users can interact with the fine-tuned model.
 
-The final training file is QloraChanges.py
-If you want to train you can install required library and use QloraChanges.py 
+The final training file is `QloraChanges.py`
+If you want to train you can install required library and use `QloraChanges.py` 
 ```
 !pip install -qU transformers peft accelerate bitsandbytes datasets
 ```
