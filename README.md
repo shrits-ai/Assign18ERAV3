@@ -27,6 +27,9 @@ The QLoRA adapter was trained in Google Colab with the following steps:
 
 ## 🎯 Live Demo
 👉 [Try it on Hugging Face Spaces!](https://huggingface.co/spaces/Shriti09/MicrosoftPhiQloraExample)
+Example output:
+<img width="1517" alt="image" src="https://github.com/user-attachments/assets/b346e6bb-75de-4554-bbaa-8473f44109b9" />
+
 
 ## ⚡ Inference Example
 Ask the chatbot anything about AI, technology, or more!
